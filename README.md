@@ -17,6 +17,7 @@
 - Languages->Spanish, English and a bit of chinese.
 
 <h5>Currently Listening:</h5>
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hh79d0t6olkry9h0jddvf3hj2&cover_image=false&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=5270fe&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <h5>Connect with me:</h5>
