@@ -14,7 +14,7 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/ipasco/](https://www.linkedin.com/in/ipasco/)
 
 - ⚡ Fun fact **I love leaning new thing an I'm very passionate about my work**
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hh79d0t6olkry9h0jddvf3hj2&cover_image=false&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=5270fe&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ipasco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ipasco" height="30" width="40" /></a>
