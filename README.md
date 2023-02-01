@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ipasco/](https://www.linkedin.com/in/ipasco/)
 
-- ⚡ Fun fact **I love leaning new thing an I'm very passionate about my work**
+- ⚡ Fun fact **I love learning new thing an I'm very passionate about my work**
 - Languages *Spanish, English and a bit of chinese.*
 
 <h5>Currently Listening:</h5>
