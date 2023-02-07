@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ipasco01&label=Profile%20views&color=0e75b6&style=flat" alt="ipasco01" /> </p>
 
-- 🔭 I’m currently working on [Grupo Horizonte Verde](grupohorizonteverde.com)
+- 🔭 I’m currently working @ [Grupo Horizonte Verde](grupohorizonteverde.com)
 
 - 🌱 I’m currently learning **JS, React, Next Js**
 
